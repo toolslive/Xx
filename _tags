@@ -1,0 +1,7 @@
+true:annot,debug
+true:package(lablgl)
+true:package(str)
+true:package(glMLite)
+true:package(glMLite.glut)
+<src>:include
+
